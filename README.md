@@ -3,7 +3,7 @@
 #### You have reached a bright corner of the Matrix.
 
 
-- 🔭 I’m currently working on creating **Frontrow** with Flutter.
+- 🔭 I’m currently working on creating **FrontRow** with Flutter.
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on *anything exciting*.
 - 💬 Ask me about *Flutter, Firebase and Life*

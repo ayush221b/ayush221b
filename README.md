@@ -10,3 +10,7 @@
 - 📫 Reach me at: ayush221b@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The chocolate tip of the 🍦 is more fulfilling than a 🍫 itself.
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ayush221b"
+/>
